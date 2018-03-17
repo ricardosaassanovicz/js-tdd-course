@@ -1,5 +1,4 @@
-
-import { expect } from 'chai';
+import expect from 'chai';
 import { sum, sub, mult, div}  from '../src/main.js';
 
 describe('Calc', () => {
@@ -52,6 +51,5 @@ describe('Calc', () => {
         });
 
     });
-
 
 });
