@@ -35,5 +35,5 @@ describe('FizzBuzz', () => {
 
     it('should return 0 when 0', () => {
         expect(FizzBuzz(0)).to.be.equal(0);                       
-    });
+    }); 
 });
