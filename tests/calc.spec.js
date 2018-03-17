@@ -1,5 +1,5 @@
-import expect from 'chai';
-import { sum, sub, mult, div}  from '../src/main.js';
+import { expect } from 'chai';
+import { sum, sub, mult, div}  from '../src/calc.js';
 
 describe('Calc', () => {
 
