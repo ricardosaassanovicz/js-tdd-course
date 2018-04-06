@@ -1,7 +1,7 @@
 {
-  "name": "spotify-wrapper-player",
+  "name": "js-tdd-course",
   "version": "1.0.0",
-  "description": "A player using the spotify lib",
+  "description": "JS com TDD na prática",
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint src/*.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ricardosaassanovicz/spotify-wrapper-player.git"
+    "url": "git+https://github.com/ricardosaassanovicz/js-tdd-course.git"
   },
   "keywords": [
     "js",
@@ -29,9 +29,9 @@
   "author": "Ricardo Sassanovicz <sassanovicz.ricardo@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ricardosaassanovicz/spotify-wrapper-player/issues"
+    "url": "https://github.com/ricardosaassanovicz/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/ricardosaassanovicz/spotify-wrapper-player#readme",
+  "homepage": "https://github.com/ricardosaassanovicz/js-tdd-course#readme",
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
     "babel-register": "^6.26.0",
